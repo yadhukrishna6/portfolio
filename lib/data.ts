@@ -19,7 +19,7 @@ export const personal = {
 I have delivered 10+ applications across travel, e-commerce, CRM, ERP, loyalty, and content management domains, with a strong focus on clean architecture, performance, and scalable design. I enjoy turning complex requirements into polished user experiences and reliable backend systems.`,
   location: "Kerala, India",
   email: "yadhu623871@gmail.com",
-  resumeUrl: "/Yadhukrishna-Resume.docx",
+  resumeUrl: "/Yadhukrishna-Resume.pdf",
 };
 
 export const social = [
@@ -51,6 +51,7 @@ export const skills: Skill[] = [
   // Tools
   { name: "AWS (S3, EC2, CloudFront, Cognito)", icon: "☁️", level: 82, category: "Tools" },
   { name: "Git / GitHub",        icon: "🐙", level: 90, category: "Tools" },
+  { name: "Vercel",              icon: "▲", level: 85, category: "Tools" },
   { name: "Swagger / Postman",   icon: "🧪", level: 78, category: "Tools" },
   { name: "Figma / Canva / GIMP",icon: "🖌️", level: 74, category: "Design" },
 ];
