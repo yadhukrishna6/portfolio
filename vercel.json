@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm ci && npm run build",
+  "installCommand": "npm ci",
+  "framework": "nextjs",
+  "regions": ["sin1"],
+  "functions": {
+    "app/**/*.ts": {
+      "maxDuration": 10
+    }
+  }
+}
