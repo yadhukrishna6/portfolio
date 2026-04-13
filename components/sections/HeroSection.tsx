@@ -106,7 +106,7 @@ export function HeroSection() {
             className="mb-4"
             style={{
               fontFamily: "var(--font-display)",
-              fontSize: "clamp(3rem, 8vw, 5rem)",
+              fontSize: "clamp(2rem, 8vw, 5rem)",
               fontWeight: 800,
               letterSpacing: "-0.04em",
               lineHeight: 1,
