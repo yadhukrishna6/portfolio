@@ -111,7 +111,7 @@ export function HeroSection() {
               letterSpacing: "-0.04em",
               lineHeight: 1,
               color: "var(--text-primary)",
-              marginBottom: "5rem",
+              marginBottom: "clamp(2rem, 8vw, 5rem)",
             }}
             initial={{ opacity: 0, y: 40 }}
             animate={{ opacity: 1, y: 0 }}
